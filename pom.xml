@@ -34,10 +34,10 @@
 				</configuration>
 			</plugin>
 			<plugin>
-    <groupId>org.mule.tools.maven</groupId>
-        <artifactId>mule-maven-plugin</artifactId>
-        <version>${mule.maven.plugin.version}</version>
-        <configuration>
+    			<groupId>org.mule.tools.maven</groupId>
+        		<artifactId>mule-maven-plugin</artifactId>
+        		<version>${mule.maven.plugin.version}</version>
+        	<configuration>
 <cloudbHubDeployment>
   <muleVersion>${app.runtime}</muleVersion>
   <username>sandhya019</username>
